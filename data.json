@@ -389,6 +389,7 @@
     "Elijah Higgins"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
+   "locked": false,
    "stale": []
   },
   "ATL": {
@@ -402,6 +403,7 @@
     "Charlie Woerner"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "BAL": {
@@ -415,6 +417,7 @@
     "Matt Hibner"
    ],
    "kickoff": "2026-11-16T20:15:00-05:00",
+   "locked": false,
    "stale": []
   },
   "BUF": {
@@ -428,6 +431,7 @@
     "Dalton Kincaid"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "CAR": {
@@ -442,6 +446,7 @@
     "Tommy Tremble"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "CIN": {
@@ -457,6 +462,7 @@
     "Drew Sample"
    ],
    "kickoff": "2026-11-15T20:20:00-05:00",
+   "locked": false,
    "stale": []
   },
   "CLE": {
@@ -471,6 +477,7 @@
     "Harold Fannin Jr."
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "DAL": {
@@ -485,6 +492,7 @@
     "Brevyn Spann-Ford"
    ],
    "kickoff": "2026-11-15T16:25:00-05:00",
+   "locked": false,
    "stale": []
   },
   "DET": {
@@ -498,6 +506,7 @@
     "Sam LaPorta"
    ],
    "kickoff": "2026-11-15T09:30:00-05:00",
+   "locked": true,
    "stale": []
   },
   "GB": {
@@ -514,6 +523,7 @@
     "Tucker Kraft"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "HOU": {
@@ -528,6 +538,7 @@
     "Dalton Schultz"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "IND": {
@@ -543,6 +554,7 @@
     "Tyler Warren"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "JAX": {
@@ -556,6 +568,7 @@
     "Brenton Strange"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "KC": {
@@ -570,6 +583,7 @@
     "Travis Kelce"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "LAC": {
@@ -582,6 +596,7 @@
     "Charlie Kolar"
    ],
    "kickoff": "2026-11-16T20:15:00-05:00",
+   "locked": false,
    "stale": []
   },
   "LAR": {
@@ -596,6 +611,7 @@
     "Colby Parkinson"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
+   "locked": false,
    "stale": []
   },
   "LV": {
@@ -609,6 +625,7 @@
     "Brock Bowers"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
+   "locked": false,
    "stale": []
   },
   "MIA": {
@@ -623,6 +640,7 @@
     "Greg Dulcich"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "MIN": {
@@ -637,6 +655,7 @@
     "T.J. Hockenson"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "NE": {
@@ -650,6 +669,7 @@
     "Hunter Henry"
    ],
    "kickoff": "2026-11-15T09:30:00-05:00",
+   "locked": true,
    "stale": []
   },
   "NO": {
@@ -663,6 +683,7 @@
     "Juwan Johnson"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "NYG": {
@@ -676,6 +697,7 @@
     "Isaiah Likely"
    ],
    "kickoff": "2026-11-12T20:15:00-05:00",
+   "locked": true,
    "stale": []
   },
   "NYJ": {
@@ -690,6 +712,7 @@
     "Jeremy Ruckert"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "PIT": {
@@ -702,6 +725,7 @@
     "Pat Freiermuth"
    ],
    "kickoff": "2026-11-15T20:20:00-05:00",
+   "locked": false,
    "stale": []
   },
   "SEA": {
@@ -715,6 +739,7 @@
     "AJ Barner"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
+   "locked": false,
    "stale": []
   },
   "SF": {
@@ -728,6 +753,7 @@
     "George Kittle"
    ],
    "kickoff": "2026-11-15T16:25:00-05:00",
+   "locked": false,
    "stale": []
   },
   "TEN": {
@@ -742,6 +768,7 @@
     "Gunnar Helm"
    ],
    "kickoff": "2026-11-15T13:00:00-05:00",
+   "locked": true,
    "stale": []
   },
   "WSH": {
@@ -755,6 +782,7 @@
     "John Bates"
    ],
    "kickoff": "2026-11-12T20:15:00-05:00",
+   "locked": true,
    "stale": []
   }
  },
