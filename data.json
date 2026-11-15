@@ -492,7 +492,7 @@
     "Brevyn Spann-Ford"
    ],
    "kickoff": "2026-11-15T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "DET": {
@@ -753,7 +753,7 @@
     "George Kittle"
    ],
    "kickoff": "2026-11-15T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "TEN": {
