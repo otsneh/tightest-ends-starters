@@ -1,16 +1,380 @@
 {
- "drops": [
+ "bye": [
+  "CHI",
+  "DEN",
+  "PHI",
+  "TB"
+ ],
+ "ineligible": [
   {
+   "game": "WSH @ NYG",
+   "kickoff": "2026-11-12T20:15:00-05:00",
+   "player": "Isaiah Likely",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NYG"
+  },
+  {
+   "game": "WSH @ NYG",
+   "kickoff": "2026-11-12T20:15:00-05:00",
+   "player": "Chig Okonkwo",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "WSH"
+  },
+  {
+   "game": "WSH @ NYG",
+   "kickoff": "2026-11-12T20:15:00-05:00",
+   "player": "John Bates",
+   "sources": [
+    "Club"
+   ],
+   "team": "WSH"
+  },
+  {
+   "game": "NE vs DET",
+   "kickoff": "2026-11-15T09:30:00-05:00",
+   "player": "Sam LaPorta",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "DET"
+  },
+  {
+   "game": "NE vs DET",
+   "kickoff": "2026-11-15T09:30:00-05:00",
+   "player": "Hunter Henry",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NE"
+  },
+  {
+   "game": "KC @ ATL",
    "kickoff": "2026-11-15T13:00:00-05:00",
-   "owner": "Jleviloff",
-   "player": "Ben Yurosek",
-   "reasons": [
-    "inherits: every TE ahead on ESPN chart is out (T.J. Hockenson)"
+   "player": "Charlie Woerner",
+   "sources": [
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "KC @ ATL",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Kyle Pitts Sr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "BUF @ NYJ",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Dalton Kincaid",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "BUF"
+  },
+  {
+   "game": "CAR @ NO",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Tommy Tremble",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "CAR"
+  },
+  {
+   "game": "HOU @ CLE",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Harold Fannin Jr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "CLE"
+  },
+  {
+   "game": "MIN @ GB",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Tucker Kraft",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "GB"
+  },
+  {
+   "game": "HOU @ CLE",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Dalton Schultz",
+   "sources": [
+    "ESPN"
+   ],
+   "team": "HOU"
+  },
+  {
+   "game": "MIA @ IND",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Tyler Warren",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "IND"
+  },
+  {
+   "game": "JAX @ TEN",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Brenton Strange",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "JAX"
+  },
+  {
+   "game": "KC @ ATL",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Travis Kelce",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "KC"
+  },
+  {
+   "game": "MIA @ IND",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Greg Dulcich",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "MIA"
+  },
+  {
+   "game": "MIN @ GB",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "T.J. Hockenson",
+   "sources": [
+    "ESPN",
+    "Club"
    ],
    "team": "MIN"
+  },
+  {
+   "game": "CAR @ NO",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Juwan Johnson",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NO"
+  },
+  {
+   "game": "BUF @ NYJ",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Jeremy Ruckert",
+   "sources": [
+    "Club"
+   ],
+   "team": "NYJ"
+  },
+  {
+   "game": "BUF @ NYJ",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Mason Taylor",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NYJ"
+  },
+  {
+   "game": "JAX @ TEN",
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "player": "Gunnar Helm",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "TEN"
+  },
+  {
+   "game": "LAR @ ARI",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Elijah Higgins",
+   "sources": [
+    "Club"
+   ],
+   "team": "ARI"
+  },
+  {
+   "game": "LAR @ ARI",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Trey McBride",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "ARI"
+  },
+  {
+   "game": "LAR @ ARI",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Colby Parkinson",
+   "sources": [
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "LAR @ ARI",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Davis Allen",
+   "sources": [
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "LAR @ ARI",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Tyler Higbee",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "SEA @ LV",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "Brock Bowers",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LV"
+  },
+  {
+   "game": "SEA @ LV",
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "player": "AJ Barner",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "SEA"
+  },
+  {
+   "game": "SF @ DAL",
+   "kickoff": "2026-11-15T16:25:00-05:00",
+   "player": "Brevyn Spann-Ford",
+   "sources": [
+    "Club"
+   ],
+   "team": "DAL"
+  },
+  {
+   "game": "SF @ DAL",
+   "kickoff": "2026-11-15T16:25:00-05:00",
+   "player": "Jake Ferguson",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "DAL"
+  },
+  {
+   "game": "SF @ DAL",
+   "kickoff": "2026-11-15T16:25:00-05:00",
+   "player": "George Kittle",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "SF"
+  },
+  {
+   "game": "PIT @ CIN",
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "player": "Drew Sample",
+   "sources": [
+    "Club"
+   ],
+   "team": "CIN"
+  },
+  {
+   "game": "PIT @ CIN",
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "player": "Mike Gesicki",
+   "sources": [
+    "ESPN"
+   ],
+   "team": "CIN"
+  },
+  {
+   "game": "PIT @ CIN",
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "player": "Darnell Washington",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "PIT"
+  },
+  {
+   "game": "PIT @ CIN",
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "player": "Pat Freiermuth",
+   "sources": [
+    "Club"
+   ],
+   "team": "PIT"
+  },
+  {
+   "game": "LAC @ BAL",
+   "kickoff": "2026-11-16T20:15:00-05:00",
+   "player": "Mark Andrews",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "BAL"
+  },
+  {
+   "game": "LAC @ BAL",
+   "kickoff": "2026-11-16T20:15:00-05:00",
+   "player": "Matt Hibner",
+   "sources": [
+    "Club"
+   ],
+   "team": "BAL"
+  },
+  {
+   "game": "LAC @ BAL",
+   "kickoff": "2026-11-16T20:15:00-05:00",
+   "player": "Charlie Kolar",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LAC"
   }
  ],
- "kicked_off_still_rostered": [],
  "stale": [],
  "teams": {
   "ARI": {
@@ -19,63 +383,39 @@
     "Teagan Quitoriano",
     "Tip Reiman"
    ],
-   "bye": false,
-   "club_first": [
-    "Trey McBride",
-    "Elijah Higgins"
-   ],
-   "espn_te1": [
-    "Trey McBride"
-   ],
    "game": "LAR @ ARI",
-   "kickoff": "2026-11-15T16:05:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Trey McBride",
     "Elijah Higgins"
-   ]
+   ],
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "stale": []
   },
   "ATL": {
    "backups": [
     "Austin Hooper",
     "Nick Muse"
    ],
-   "bye": false,
-   "club_first": [
-    "Kyle Pitts Sr.",
-    "Charlie Woerner"
-   ],
-   "espn_te1": [
-    "Kyle Pitts Sr."
-   ],
    "game": "KC @ ATL",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Kyle Pitts Sr.",
     "Charlie Woerner"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "BAL": {
    "backups": [
     "Josh Cuevas",
     "Durham Smythe"
    ],
-   "bye": false,
-   "club_first": [
-    "Mark Andrews",
-    "Matt Hibner"
-   ],
-   "espn_te1": [
-    "Mark Andrews"
-   ],
    "game": "LAC @ BAL",
-   "kickoff": "2026-11-16T20:15:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Mark Andrews",
     "Matt Hibner"
-   ]
+   ],
+   "kickoff": "2026-11-16T20:15:00-05:00",
+   "stale": []
   },
   "BUF": {
    "backups": [
@@ -83,19 +423,12 @@
     "Jackson Hawes",
     "Keleki Latu"
    ],
-   "bye": false,
-   "club_first": [
-    "Dalton Kincaid"
-   ],
-   "espn_te1": [
-    "Dalton Kincaid"
-   ],
    "game": "BUF @ NYJ",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Dalton Kincaid"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "CAR": {
    "backups": [
@@ -104,41 +437,12 @@
     "Feleipe Franks",
     "Ja'Tavion Sanders"
    ],
-   "bye": false,
-   "club_first": [
-    "Tommy Tremble"
-   ],
-   "espn_te1": [
-    "Tommy Tremble"
-   ],
    "game": "CAR @ NO",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Tommy Tremble"
-   ]
-  },
-  "CHI": {
-   "backups": [
-    "Sam Roush",
-    "Stephen Carlson",
-    "Hayden Large",
-    "Cole Kmet",
-    "Nikola Kalinic"
    ],
-   "bye": true,
-   "club_first": [
-    "Colston Loveland"
-   ],
-   "espn_te1": [
-    "Colston Loveland"
-   ],
-   "game": "BYE",
-   "kickoff": null,
-   "stale": [],
-   "starters": [
-    "Colston Loveland"
-   ]
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "CIN": {
    "backups": [
@@ -147,20 +451,13 @@
     "Erick All Jr.",
     "Tanner Hudson"
    ],
-   "bye": false,
-   "club_first": [
-    "Drew Sample"
-   ],
-   "espn_te1": [
-    "Mike Gesicki"
-   ],
    "game": "PIT @ CIN",
-   "kickoff": "2026-11-15T20:20:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Mike Gesicki",
     "Drew Sample"
-   ]
+   ],
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "stale": []
   },
   "CLE": {
    "backups": [
@@ -169,19 +466,12 @@
     "Zaire Mitchell-Paden",
     "Joe Royer"
    ],
-   "bye": false,
-   "club_first": [
-    "Harold Fannin Jr."
-   ],
-   "espn_te1": [
-    "Harold Fannin Jr."
-   ],
    "game": "HOU @ CLE",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Harold Fannin Jr."
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "DAL": {
    "backups": [
@@ -189,42 +479,13 @@
     "James Mitchell",
     "Princeton Fant"
    ],
-   "bye": false,
-   "club_first": [
-    "Jake Ferguson",
-    "Brevyn Spann-Ford"
-   ],
-   "espn_te1": [
-    "Jake Ferguson"
-   ],
    "game": "SF @ DAL",
-   "kickoff": "2026-11-15T16:25:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Jake Ferguson",
     "Brevyn Spann-Ford"
-   ]
-  },
-  "DEN": {
-   "backups": [
-    "Adam Trautman",
-    "Nate Adkins",
-    "Dallen Bentley",
-    "Caleb Lohner"
    ],
-   "bye": true,
-   "club_first": [
-    "Evan Engram"
-   ],
-   "espn_te1": [
-    "Evan Engram"
-   ],
-   "game": "BYE",
-   "kickoff": null,
-   "stale": [],
-   "starters": [
-    "Evan Engram"
-   ]
+   "kickoff": "2026-11-15T16:25:00-05:00",
+   "stale": []
   },
   "DET": {
    "backups": [
@@ -232,19 +493,12 @@
     "Tyler Conklin",
     "Jackson Meeks"
    ],
-   "bye": false,
-   "club_first": [
-    "Sam LaPorta"
-   ],
-   "espn_te1": [
-    "Sam LaPorta"
-   ],
    "game": "NE vs DET",
-   "kickoff": "2026-11-15T09:30:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Sam LaPorta"
-   ]
+   ],
+   "kickoff": "2026-11-15T09:30:00-05:00",
+   "stale": []
   },
   "GB": {
    "backups": [
@@ -255,19 +509,12 @@
     "Josh Whyle",
     "Thomas Yassmin"
    ],
-   "bye": false,
-   "club_first": [
-    "Tucker Kraft"
-   ],
-   "espn_te1": [
-    "Tucker Kraft"
-   ],
    "game": "MIN @ GB",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Tucker Kraft"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "HOU": {
    "backups": [
@@ -276,19 +523,12 @@
     "Marlin Klein",
     "Cade Stover"
    ],
-   "bye": false,
-   "club_first": [
-    "Dalton Schultz"
-   ],
-   "espn_te1": [
-    "Dalton Schultz"
-   ],
    "game": "HOU @ CLE",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Dalton Schultz"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "IND": {
    "backups": [
@@ -298,19 +538,12 @@
     "Mo Alie-Cox",
     "Carson Towt"
    ],
-   "bye": false,
-   "club_first": [
-    "Tyler Warren"
-   ],
-   "espn_te1": [
-    "Tyler Warren"
-   ],
    "game": "MIA @ IND",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Tyler Warren"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "JAX": {
    "backups": [
@@ -318,19 +551,12 @@
     "Tanner Koziol",
     "Quintin Morris"
    ],
-   "bye": false,
-   "club_first": [
-    "Brenton Strange"
-   ],
-   "espn_te1": [
-    "Brenton Strange"
-   ],
    "game": "JAX @ TEN",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Brenton Strange"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "KC": {
    "backups": [
@@ -339,61 +565,38 @@
     "Jared Wiley",
     "John Michael Gyllenborg"
    ],
-   "bye": false,
-   "club_first": [
-    "Travis Kelce"
-   ],
-   "espn_te1": [
-    "Travis Kelce"
-   ],
    "game": "KC @ ATL",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Travis Kelce"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "LAC": {
    "backups": [
     "Oronde Gadsden",
     "David Njoku"
    ],
-   "bye": false,
-   "club_first": [
-    "Charlie Kolar"
-   ],
-   "espn_te1": [
-    "Charlie Kolar"
-   ],
    "game": "LAC @ BAL",
-   "kickoff": "2026-11-16T20:15:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Charlie Kolar"
-   ]
+   ],
+   "kickoff": "2026-11-16T20:15:00-05:00",
+   "stale": []
   },
   "LAR": {
    "backups": [
     "Max Klare",
     "Terrance Ferguson"
    ],
-   "bye": false,
-   "club_first": [
-    "Davis Allen",
-    "Tyler Higbee",
-    "Colby Parkinson"
-   ],
-   "espn_te1": [
-    "Tyler Higbee"
-   ],
    "game": "LAR @ ARI",
-   "kickoff": "2026-11-15T16:05:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Tyler Higbee",
     "Davis Allen",
     "Colby Parkinson"
-   ]
+   ],
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "stale": []
   },
   "LV": {
    "backups": [
@@ -401,19 +604,12 @@
     "Ian Thomas",
     "Carter Runyon"
    ],
-   "bye": false,
-   "club_first": [
-    "Brock Bowers"
-   ],
-   "espn_te1": [
-    "Brock Bowers"
-   ],
    "game": "SEA @ LV",
-   "kickoff": "2026-11-15T16:05:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Brock Bowers"
-   ]
+   ],
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "stale": []
   },
   "MIA": {
    "backups": [
@@ -422,40 +618,26 @@
     "Justin Joly",
     "Cole Turner"
    ],
-   "bye": false,
-   "club_first": [
-    "Greg Dulcich"
-   ],
-   "espn_te1": [
-    "Greg Dulcich"
-   ],
    "game": "MIA @ IND",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Greg Dulcich"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "MIN": {
    "backups": [
+    "Ben Yurosek",
+    "Gavin Bartholomew",
     "Devin Culp",
     "Josh Oliver"
    ],
-   "bye": false,
-   "club_first": [
-    "T.J. Hockenson"
-   ],
-   "espn_te1": [
-    "T.J. Hockenson"
-   ],
    "game": "MIN @ GB",
+   "ineligible": [
+    "T.J. Hockenson"
+   ],
    "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
-    "T.J. Hockenson",
-    "Ben Yurosek",
-    "Gavin Bartholomew"
-   ]
+   "stale": []
   },
   "NE": {
    "backups": [
@@ -463,19 +645,12 @@
     "Cameron Latu",
     "Julian Hill"
    ],
-   "bye": false,
-   "club_first": [
-    "Hunter Henry"
-   ],
-   "espn_te1": [
-    "Hunter Henry"
-   ],
    "game": "NE vs DET",
-   "kickoff": "2026-11-15T09:30:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Hunter Henry"
-   ]
+   ],
+   "kickoff": "2026-11-15T09:30:00-05:00",
+   "stale": []
   },
   "NO": {
    "backups": [
@@ -483,19 +658,12 @@
     "Oscar Delp",
     "Moliki Matavao"
    ],
-   "bye": false,
-   "club_first": [
-    "Juwan Johnson"
-   ],
-   "espn_te1": [
-    "Juwan Johnson"
-   ],
    "game": "CAR @ NO",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Juwan Johnson"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "NYG": {
    "backups": [
@@ -503,19 +671,12 @@
     "Chris Manhertz",
     "Thomas Fidone II"
    ],
-   "bye": false,
-   "club_first": [
-    "Isaiah Likely"
-   ],
-   "espn_te1": [
-    "Isaiah Likely"
-   ],
    "game": "WSH @ NYG",
-   "kickoff": "2026-11-12T20:15:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Isaiah Likely"
-   ]
+   ],
+   "kickoff": "2026-11-12T20:15:00-05:00",
+   "stale": []
   },
   "NYJ": {
    "backups": [
@@ -523,61 +684,25 @@
     "Jelani Woods",
     "Andrew Beck"
    ],
-   "bye": false,
-   "club_first": [
-    "Jeremy Ruckert",
-    "Mason Taylor"
-   ],
-   "espn_te1": [
-    "Mason Taylor"
-   ],
    "game": "BUF @ NYJ",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Mason Taylor",
     "Jeremy Ruckert"
-   ]
-  },
-  "PHI": {
-   "backups": [
-    "Eli Stowers",
-    "Johnny Mundt",
-    "Grant Calcaterra"
    ],
-   "bye": true,
-   "club_first": [
-    "Dallas Goedert"
-   ],
-   "espn_te1": [
-    "Dallas Goedert"
-   ],
-   "game": "BYE",
-   "kickoff": null,
-   "stale": [],
-   "starters": [
-    "Dallas Goedert"
-   ]
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "PIT": {
    "backups": [
     "Robert Tonyan"
    ],
-   "bye": false,
-   "club_first": [
-    "Pat Freiermuth",
-    "Darnell Washington"
-   ],
-   "espn_te1": [
-    "Darnell Washington"
-   ],
    "game": "PIT @ CIN",
-   "kickoff": "2026-11-15T20:20:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Darnell Washington",
     "Pat Freiermuth"
-   ]
+   ],
+   "kickoff": "2026-11-15T20:20:00-05:00",
+   "stale": []
   },
   "SEA": {
    "backups": [
@@ -585,19 +710,12 @@
     "Nick Kallerup",
     "Elijah Arroyo"
    ],
-   "bye": false,
-   "club_first": [
-    "AJ Barner"
-   ],
-   "espn_te1": [
-    "AJ Barner"
-   ],
    "game": "SEA @ LV",
-   "kickoff": "2026-11-15T16:05:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "AJ Barner"
-   ]
+   ],
+   "kickoff": "2026-11-15T16:05:00-05:00",
+   "stale": []
   },
   "SF": {
    "backups": [
@@ -605,39 +723,12 @@
     "Brayden Willis",
     "Jake Tonges"
    ],
-   "bye": false,
-   "club_first": [
-    "George Kittle"
-   ],
-   "espn_te1": [
-    "George Kittle"
-   ],
    "game": "SF @ DAL",
-   "kickoff": "2026-11-15T16:25:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "George Kittle"
-   ]
-  },
-  "TB": {
-   "backups": [
-    "Payne Durham",
-    "Bauer Sharp",
-    "Ko Kieft"
    ],
-   "bye": true,
-   "club_first": [
-    "Cade Otton"
-   ],
-   "espn_te1": [
-    "Cade Otton"
-   ],
-   "game": "BYE",
-   "kickoff": null,
-   "stale": [],
-   "starters": [
-    "Cade Otton"
-   ]
+   "kickoff": "2026-11-15T16:25:00-05:00",
+   "stale": []
   },
   "TEN": {
    "backups": [
@@ -646,40 +737,25 @@
     "Kylen Granson",
     "Jaren Kanak"
    ],
-   "bye": false,
-   "club_first": [
-    "Gunnar Helm"
-   ],
-   "espn_te1": [
-    "Gunnar Helm"
-   ],
    "game": "JAX @ TEN",
-   "kickoff": "2026-11-15T13:00:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Gunnar Helm"
-   ]
+   ],
+   "kickoff": "2026-11-15T13:00:00-05:00",
+   "stale": []
   },
   "WSH": {
    "backups": [
     "Ben Sinnott",
     "Colson Yankoff"
    ],
-   "bye": false,
-   "club_first": [
-    "Chig Okonkwo",
-    "John Bates"
-   ],
-   "espn_te1": [
-    "Chig Okonkwo"
-   ],
    "game": "WSH @ NYG",
-   "kickoff": "2026-11-12T20:15:00-05:00",
-   "stale": [],
-   "starters": [
+   "ineligible": [
     "Chig Okonkwo",
     "John Bates"
-   ]
+   ],
+   "kickoff": "2026-11-12T20:15:00-05:00",
+   "stale": []
   }
  },
  "week": 10
