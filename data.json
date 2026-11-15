@@ -389,7 +389,7 @@
     "Elijah Higgins"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "ATL": {
@@ -611,7 +611,7 @@
     "Colby Parkinson"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "LV": {
@@ -625,7 +625,7 @@
     "Brock Bowers"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "MIA": {
@@ -739,7 +739,7 @@
     "AJ Barner"
    ],
    "kickoff": "2026-11-15T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "SF": {
