@@ -375,7 +375,12 @@
    "team": "LAC"
   }
  ],
- "stale": [],
+ "stale": [
+  [
+   "BAL",
+   "ESPN chart"
+  ]
+ ],
  "teams": {
   "ARI": {
    "backups": [
@@ -418,7 +423,9 @@
    ],
    "kickoff": "2026-11-16T20:15:00-05:00",
    "locked": false,
-   "stale": []
+   "stale": [
+    "ESPN chart"
+   ]
   },
   "BUF": {
    "backups": [
