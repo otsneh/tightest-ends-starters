@@ -462,7 +462,7 @@
     "Drew Sample"
    ],
    "kickoff": "2026-11-15T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CLE": {
@@ -725,7 +725,7 @@
     "Pat Freiermuth"
    ],
    "kickoff": "2026-11-15T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "SEA": {
