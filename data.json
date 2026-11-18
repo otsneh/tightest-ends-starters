@@ -330,7 +330,12 @@
    "team": "WSH"
   }
  ],
- "stale": [],
+ "stale": [
+  [
+   "TEN",
+   "ESPN chart"
+  ]
+ ],
  "teams": {
   "ARI": {
    "backups": [
@@ -692,7 +697,9 @@
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
    "locked": false,
-   "stale": []
+   "stale": [
+    "ESPN chart"
+   ]
   },
   "WSH": {
    "backups": [
