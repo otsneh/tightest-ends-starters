@@ -332,7 +332,15 @@
  ],
  "stale": [
   [
-   "TB",
+   "ATL",
+   "club chart"
+  ],
+  [
+   "CHI",
+   "club chart"
+  ],
+  [
+   "DEN",
    "club chart"
   ]
  ],
@@ -409,7 +417,9 @@
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
    "locked": false,
-   "stale": []
+   "stale": [
+    "club chart"
+   ]
   },
   "CIN": {
    "backups": [
@@ -455,7 +465,9 @@
    ],
    "kickoff": "2026-11-22T16:25:00-05:00",
    "locked": false,
-   "stale": []
+   "stale": [
+    "club chart"
+   ]
   },
   "DET": {
    "backups": [
@@ -682,9 +694,7 @@
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
    "locked": false,
-   "stale": [
-    "club chart"
-   ]
+   "stale": []
   },
   "TEN": {
    "backups": [
