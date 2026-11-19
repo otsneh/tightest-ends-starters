@@ -330,12 +330,7 @@
    "team": "WSH"
   }
  ],
- "stale": [
-  [
-   "ALL",
-   "schedule"
-  ]
- ],
+ "stale": [],
  "teams": {
   "ARI": {
    "backups": [
