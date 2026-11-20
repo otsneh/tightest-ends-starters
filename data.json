@@ -477,7 +477,7 @@
     "Dalton Schultz"
    ],
    "kickoff": "2026-11-19T20:15:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "IND": {
@@ -493,7 +493,7 @@
     "Tyler Warren"
    ],
    "kickoff": "2026-11-19T20:15:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "JAX": {
