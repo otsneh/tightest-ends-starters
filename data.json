@@ -821,7 +821,7 @@
     "Charlie Kolar"
    ],
    "kickoff": "2026-11-22T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "LAR": {
@@ -936,7 +936,7 @@
     "Jeremy Ruckert"
    ],
    "kickoff": "2026-11-22T16:05:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "PHI": {
