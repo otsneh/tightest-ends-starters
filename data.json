@@ -719,7 +719,7 @@
     "Evan Engram"
    ],
    "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "DET": {
@@ -793,7 +793,7 @@
     "Brenton Strange"
    ],
    "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "KC": {
@@ -850,7 +850,7 @@
     "Brock Bowers"
    ],
    "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "MIA": {
@@ -921,7 +921,7 @@
     "Isaiah Likely"
    ],
    "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "NYJ": {
