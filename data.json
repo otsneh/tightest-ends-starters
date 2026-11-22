@@ -2,201 +2,241 @@
  "available": [
   {
    "player": "Jake Tonges",
+   "player_id": "8698",
    "rank": 1,
    "team": "SF"
   },
   {
    "player": "Michael Trigg",
+   "player_id": "13401",
    "rank": 2,
    "team": "DAL"
   },
   {
    "player": "Eric Ebron",
+   "player_id": "2118",
    "rank": 3,
    "team": "PIT"
   },
   {
    "player": "Jelani Woods",
+   "player_id": "8219",
    "rank": 4,
    "team": "NYJ"
   },
   {
    "player": "Nikola Kalinic",
+   "player_id": "8107",
    "rank": 5,
    "team": "CHI"
   },
   {
    "player": "Cam Grandy",
+   "player_id": "12062",
    "rank": 6,
    "team": "CIN"
   },
   {
    "player": "Lucas Krull",
+   "player_id": "8249",
    "rank": 7,
    "team": "DEN"
   },
   {
    "player": "Khalil Dinkins",
+   "player_id": "13432",
    "rank": 8,
    "team": "SF"
   },
   {
    "player": "Brenden Bates",
+   "player_id": "12374",
    "rank": 9,
    "team": "JAX"
   },
   {
    "player": "Carter Runyon",
+   "player_id": "13122",
    "rank": 10,
    "team": "LV"
   },
   {
    "player": "Nick Vannett",
+   "player_id": "3258",
    "rank": 11,
    "team": "BAL"
   },
   {
    "player": "Caleb Lohner",
+   "player_id": "12735",
    "rank": 12,
    "team": "DEN"
   },
   {
    "player": "Ian Thomas",
+   "player_id": "4995",
    "rank": 13,
    "team": "LV"
   },
   {
    "player": "Pharaoh Brown",
+   "player_id": "4443",
    "rank": 14,
    "team": "IND"
   },
   {
    "player": "John FitzPatrick",
+   "player_id": "8500",
    "rank": 15,
    "team": "KC"
   },
   {
    "player": "Miles Kitselman",
+   "player_id": "13431",
    "rank": 16,
    "team": "DET"
   },
   {
    "player": "Joel Wilson",
+   "player_id": "11113",
    "rank": 17,
    "team": "TEN"
   },
   {
    "player": "Jared Wiley",
+   "player_id": "11595",
    "rank": 18,
    "team": "KC"
   },
   {
    "player": "Princeton Fant",
+   "player_id": "11508",
    "rank": 19,
    "team": "DAL"
   },
   {
    "player": "Hunter Long",
+   "player_id": "7535",
    "rank": 20,
    "team": "ARI"
   },
   {
    "player": "Brevin Jordan",
+   "player_id": "7568",
    "rank": 21,
    "team": "HOU"
   },
   {
    "player": "Bauer Sharp",
+   "player_id": "13308",
    "rank": 22,
    "team": "TB"
   },
   {
    "player": "Carson Towt",
+   "player_id": "13407",
    "rank": 23,
    "team": "IND"
   },
   {
    "player": "Justin Joly",
+   "player_id": "13400",
    "rank": 24,
    "team": "MIA"
   },
   {
    "player": "David Martin-Robinson",
+   "player_id": "12357",
    "rank": 25,
    "team": "TEN"
   },
   {
    "player": "Devin Culp",
+   "player_id": "11820",
    "rank": 26,
    "team": "MIN"
   },
   {
    "player": "Cole Kmet",
+   "player_id": "6826",
    "rank": 27,
    "team": "CHI"
   },
   {
    "player": "Ty Pezza",
+   "player_id": "13705",
    "rank": 28,
    "team": "BAL"
   },
   {
    "player": "Moliki Matavao",
+   "player_id": "12480",
    "rank": 29,
    "team": "NO"
   },
   {
    "player": "Tip Reiman",
+   "player_id": "11716",
    "rank": 30,
    "team": "ARI"
   },
   {
    "player": "Jack Doyle",
+   "player_id": "1706",
    "rank": 31,
    "team": "IND"
   },
   {
    "player": "Kylen Granson",
+   "player_id": "7602",
    "rank": 32,
    "team": "TEN"
   },
   {
    "player": "Jack Endries",
+   "player_id": "13282",
    "rank": 33,
    "team": "CIN"
   },
   {
    "player": "Hayden Rucci",
+   "player_id": "12389",
    "rank": 34,
    "team": "PHI"
   },
   {
    "player": "Thomas Gordon",
+   "player_id": "13249",
    "rank": 35,
    "team": "DET"
   },
   {
    "player": "Will Kacmarek",
+   "player_id": "13434",
    "rank": 36,
    "team": "MIA"
   },
   {
    "player": "Treyton Welch",
+   "player_id": "12079",
    "rank": 37,
    "team": "NO"
   },
   {
    "player": "Joshua Simon",
+   "player_id": "12883",
    "rank": 38,
    "team": "CAR"
   },
   {
    "player": "Mo Alie-Cox",
+   "player_id": "4054",
    "rank": 39,
    "team": "IND"
   },
   {
    "player": "Jaren Kanak",
+   "player_id": "13422",
    "rank": 40,
    "team": "TEN"
   }
