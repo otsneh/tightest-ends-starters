@@ -1,204 +1,204 @@
 {
  "available": [
   {
-   "player": "Harold Fannin Jr.",
-   "rank": 1,
-   "team": "CLE"
-  },
-  {
-   "player": "Tucker Kraft",
-   "rank": 2,
-   "team": "GB"
-  },
-  {
-   "player": "Kyle Pitts Sr.",
-   "rank": 3,
-   "team": "ATL"
-  },
-  {
-   "player": "Hunter Henry",
-   "rank": 4,
-   "team": "NE"
-  },
-  {
-   "player": "AJ Barner",
-   "rank": 5,
-   "team": "SEA"
-  },
-  {
-   "player": "Colby Parkinson",
-   "rank": 6,
-   "team": "LAR"
-  },
-  {
-   "player": "Terrance Ferguson",
-   "rank": 7,
-   "team": "LAR"
-  },
-  {
    "player": "Jake Tonges",
-   "rank": 8,
+   "rank": 1,
    "team": "SF"
   },
   {
-   "player": "Max Klare",
-   "rank": 9,
-   "team": "LAR"
-  },
-  {
    "player": "Michael Trigg",
-   "rank": 10,
+   "rank": 2,
    "team": "DAL"
   },
   {
    "player": "Eric Ebron",
-   "rank": 11,
+   "rank": 3,
    "team": "PIT"
   },
   {
    "player": "Jelani Woods",
-   "rank": 12,
+   "rank": 4,
    "team": "NYJ"
   },
   {
-   "player": "Nick Kallerup",
-   "rank": 13,
-   "team": "SEA"
-  },
-  {
    "player": "Nikola Kalinic",
-   "rank": 14,
+   "rank": 5,
    "team": "CHI"
   },
   {
-   "player": "Mark Redman",
-   "rank": 15,
-   "team": "GB"
-  },
-  {
    "player": "Cam Grandy",
-   "rank": 16,
+   "rank": 6,
    "team": "CIN"
   },
   {
-   "player": "Cameron Latu",
-   "rank": 17,
-   "team": "NE"
-  },
-  {
    "player": "Lucas Krull",
-   "rank": 18,
+   "rank": 7,
    "team": "DEN"
   },
   {
    "player": "Khalil Dinkins",
-   "rank": 19,
+   "rank": 8,
    "team": "SF"
   },
   {
    "player": "Brenden Bates",
-   "rank": 20,
+   "rank": 9,
    "team": "JAX"
   },
   {
    "player": "Carter Runyon",
-   "rank": 21,
+   "rank": 10,
    "team": "LV"
   },
   {
    "player": "Nick Vannett",
-   "rank": 22,
+   "rank": 11,
    "team": "BAL"
   },
   {
    "player": "Caleb Lohner",
-   "rank": 23,
+   "rank": 12,
    "team": "DEN"
   },
   {
    "player": "Ian Thomas",
-   "rank": 24,
+   "rank": 13,
    "team": "LV"
   },
   {
    "player": "Pharaoh Brown",
-   "rank": 25,
+   "rank": 14,
    "team": "IND"
   },
   {
-   "player": "Ben Sims",
-   "rank": 26,
-   "team": "SEA"
-  },
-  {
    "player": "John FitzPatrick",
-   "rank": 27,
+   "rank": 15,
    "team": "KC"
   },
   {
-   "player": "Bronson Kaufusi",
-   "rank": 28,
-   "team": "GB"
-  },
-  {
-   "player": "Drake Dabney",
-   "rank": 29,
-   "team": "GB"
-  },
-  {
    "player": "Miles Kitselman",
-   "rank": 30,
+   "rank": 16,
    "team": "DET"
   },
   {
-   "player": "Blake Whiteheart",
-   "rank": 31,
-   "team": "CLE"
-  },
-  {
    "player": "Joel Wilson",
-   "rank": 32,
+   "rank": 17,
    "team": "TEN"
   },
   {
    "player": "Jared Wiley",
-   "rank": 33,
+   "rank": 18,
    "team": "KC"
   },
   {
    "player": "Princeton Fant",
-   "rank": 34,
+   "rank": 19,
    "team": "DAL"
   },
   {
    "player": "Hunter Long",
-   "rank": 35,
+   "rank": 20,
    "team": "ARI"
   },
   {
    "player": "Brevin Jordan",
-   "rank": 36,
+   "rank": 21,
    "team": "HOU"
   },
   {
-   "player": "Elijah Arroyo",
-   "rank": 37,
-   "team": "SEA"
-  },
-  {
-   "player": "Julian Hill",
-   "rank": 38,
-   "team": "NE"
-  },
-  {
    "player": "Bauer Sharp",
-   "rank": 39,
+   "rank": 22,
    "team": "TB"
   },
   {
    "player": "Carson Towt",
-   "rank": 40,
+   "rank": 23,
    "team": "IND"
+  },
+  {
+   "player": "Justin Joly",
+   "rank": 24,
+   "team": "MIA"
+  },
+  {
+   "player": "David Martin-Robinson",
+   "rank": 25,
+   "team": "TEN"
+  },
+  {
+   "player": "Devin Culp",
+   "rank": 26,
+   "team": "MIN"
+  },
+  {
+   "player": "Cole Kmet",
+   "rank": 27,
+   "team": "CHI"
+  },
+  {
+   "player": "Ty Pezza",
+   "rank": 28,
+   "team": "BAL"
+  },
+  {
+   "player": "Moliki Matavao",
+   "rank": 29,
+   "team": "NO"
+  },
+  {
+   "player": "Tip Reiman",
+   "rank": 30,
+   "team": "ARI"
+  },
+  {
+   "player": "Jack Doyle",
+   "rank": 31,
+   "team": "IND"
+  },
+  {
+   "player": "Kylen Granson",
+   "rank": 32,
+   "team": "TEN"
+  },
+  {
+   "player": "Jack Endries",
+   "rank": 33,
+   "team": "CIN"
+  },
+  {
+   "player": "Hayden Rucci",
+   "rank": 34,
+   "team": "PHI"
+  },
+  {
+   "player": "Thomas Gordon",
+   "rank": 35,
+   "team": "DET"
+  },
+  {
+   "player": "Will Kacmarek",
+   "rank": 36,
+   "team": "MIA"
+  },
+  {
+   "player": "Treyton Welch",
+   "rank": 37,
+   "team": "NO"
+  },
+  {
+   "player": "Joshua Simon",
+   "rank": 38,
+   "team": "CAR"
+  },
+  {
+   "player": "Mo Alie-Cox",
+   "rank": 39,
+   "team": "IND"
+  },
+  {
+   "player": "Jaren Kanak",
+   "rank": 40,
+   "team": "TEN"
   }
  ],
  "bye": [
@@ -530,6 +530,93 @@
     "Club"
    ],
    "team": "WSH"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Kyle Pitts Sr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Charlie Woerner",
+   "sources": [
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Harold Fannin Jr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "CLE"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Tucker Kraft",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "GB"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Tyler Higbee",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Davis Allen",
+   "sources": [
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Colby Parkinson",
+   "sources": [
+    "Club"
+   ],
+   "team": "LAR"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "Hunter Henry",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NE"
+  },
+  {
+   "game": "BYE",
+   "kickoff": null,
+   "player": "AJ Barner",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "SEA"
   }
  ],
  "stale": [],
@@ -546,6 +633,20 @@
     "Elijah Higgins"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
+   "locked": false,
+   "stale": []
+  },
+  "ATL": {
+   "backups": [
+    "Austin Hooper",
+    "Nick Muse"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "Kyle Pitts Sr.",
+    "Charlie Woerner"
+   ],
+   "kickoff": null,
    "locked": false,
    "stale": []
   },
@@ -625,6 +726,19 @@
    "locked": false,
    "stale": []
   },
+  "CLE": {
+   "backups": [
+    "Blake Whiteheart",
+    "Joe Royer"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "Harold Fannin Jr."
+   ],
+   "kickoff": null,
+   "locked": false,
+   "stale": []
+  },
   "DAL": {
    "backups": [
     "Luke Schoonmaker",
@@ -665,6 +779,22 @@
     "Sam LaPorta"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
+   "locked": false,
+   "stale": []
+  },
+  "GB": {
+   "backups": [
+    "Mark Redman",
+    "Jonnu Smith",
+    "Luke Musgrave",
+    "Josh Whyle",
+    "Thomas Yassmin"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "Tucker Kraft"
+   ],
+   "kickoff": null,
    "locked": false,
    "stale": []
   },
@@ -741,6 +871,21 @@
    "locked": false,
    "stale": []
   },
+  "LAR": {
+   "backups": [
+    "Max Klare",
+    "Terrance Ferguson"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "Tyler Higbee",
+    "Davis Allen",
+    "Colby Parkinson"
+   ],
+   "kickoff": null,
+   "locked": false,
+   "stale": []
+  },
   "LV": {
    "backups": [
     "Michael Mayer",
@@ -781,6 +926,20 @@
     "T.J. Hockenson"
    ],
    "kickoff": "2026-11-22T20:20:00-05:00",
+   "locked": false,
+   "stale": []
+  },
+  "NE": {
+   "backups": [
+    "Eli Raridon",
+    "Cameron Latu",
+    "Julian Hill"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "Hunter Henry"
+   ],
+   "kickoff": null,
    "locked": false,
    "stale": []
   },
@@ -852,6 +1011,20 @@
     "Pat Freiermuth"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
+   "locked": false,
+   "stale": []
+  },
+  "SEA": {
+   "backups": [
+    "Eric Saubert",
+    "Nick Kallerup",
+    "Elijah Arroyo"
+   ],
+   "game": "BYE",
+   "ineligible": [
+    "AJ Barner"
+   ],
+   "kickoff": null,
    "locked": false,
    "stale": []
   },
