@@ -546,7 +546,7 @@
     "Elijah Higgins"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "ATL": {
@@ -575,7 +575,7 @@
     "Matt Hibner"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "BUF": {
@@ -589,7 +589,7 @@
     "Dalton Kincaid"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CAR": {
@@ -604,7 +604,7 @@
     "Tommy Tremble"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CHI": {
@@ -620,7 +620,7 @@
     "Colston Loveland"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CIN": {
@@ -664,7 +664,7 @@
     "Brevyn Spann-Ford"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "DEN": {
@@ -692,7 +692,7 @@
     "Sam LaPorta"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "GB": {
@@ -768,7 +768,7 @@
     "Travis Kelce"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "LAC": {
@@ -825,7 +825,7 @@
     "Greg Dulcich"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "MIN": {
@@ -867,7 +867,7 @@
     "Juwan Johnson"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "NYG": {
@@ -911,7 +911,7 @@
     "Dallas Goedert"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "PIT": {
@@ -924,7 +924,7 @@
     "Pat Freiermuth"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "SEA": {
@@ -966,7 +966,7 @@
     "Cade Otton"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "TEN": {
@@ -981,7 +981,7 @@
     "Gunnar Helm"
    ],
    "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "WSH": {
