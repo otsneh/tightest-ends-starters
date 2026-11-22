@@ -1,4 +1,206 @@
 {
+ "available": [
+  {
+   "player": "Harold Fannin Jr.",
+   "rank": 1,
+   "team": "CLE"
+  },
+  {
+   "player": "Tucker Kraft",
+   "rank": 2,
+   "team": "GB"
+  },
+  {
+   "player": "Kyle Pitts Sr.",
+   "rank": 3,
+   "team": "ATL"
+  },
+  {
+   "player": "Hunter Henry",
+   "rank": 4,
+   "team": "NE"
+  },
+  {
+   "player": "AJ Barner",
+   "rank": 5,
+   "team": "SEA"
+  },
+  {
+   "player": "Colby Parkinson",
+   "rank": 6,
+   "team": "LAR"
+  },
+  {
+   "player": "Terrance Ferguson",
+   "rank": 7,
+   "team": "LAR"
+  },
+  {
+   "player": "Jake Tonges",
+   "rank": 8,
+   "team": "SF"
+  },
+  {
+   "player": "Max Klare",
+   "rank": 9,
+   "team": "LAR"
+  },
+  {
+   "player": "Michael Trigg",
+   "rank": 10,
+   "team": "DAL"
+  },
+  {
+   "player": "Eric Ebron",
+   "rank": 11,
+   "team": "PIT"
+  },
+  {
+   "player": "Jelani Woods",
+   "rank": 12,
+   "team": "NYJ"
+  },
+  {
+   "player": "Nick Kallerup",
+   "rank": 13,
+   "team": "SEA"
+  },
+  {
+   "player": "Nikola Kalinic",
+   "rank": 14,
+   "team": "CHI"
+  },
+  {
+   "player": "Mark Redman",
+   "rank": 15,
+   "team": "GB"
+  },
+  {
+   "player": "Cam Grandy",
+   "rank": 16,
+   "team": "CIN"
+  },
+  {
+   "player": "Cameron Latu",
+   "rank": 17,
+   "team": "NE"
+  },
+  {
+   "player": "Lucas Krull",
+   "rank": 18,
+   "team": "DEN"
+  },
+  {
+   "player": "Khalil Dinkins",
+   "rank": 19,
+   "team": "SF"
+  },
+  {
+   "player": "Brenden Bates",
+   "rank": 20,
+   "team": "JAX"
+  },
+  {
+   "player": "Carter Runyon",
+   "rank": 21,
+   "team": "LV"
+  },
+  {
+   "player": "Nick Vannett",
+   "rank": 22,
+   "team": "BAL"
+  },
+  {
+   "player": "Caleb Lohner",
+   "rank": 23,
+   "team": "DEN"
+  },
+  {
+   "player": "Ian Thomas",
+   "rank": 24,
+   "team": "LV"
+  },
+  {
+   "player": "Pharaoh Brown",
+   "rank": 25,
+   "team": "IND"
+  },
+  {
+   "player": "Ben Sims",
+   "rank": 26,
+   "team": "SEA"
+  },
+  {
+   "player": "John FitzPatrick",
+   "rank": 27,
+   "team": "KC"
+  },
+  {
+   "player": "Bronson Kaufusi",
+   "rank": 28,
+   "team": "GB"
+  },
+  {
+   "player": "Drake Dabney",
+   "rank": 29,
+   "team": "GB"
+  },
+  {
+   "player": "Miles Kitselman",
+   "rank": 30,
+   "team": "DET"
+  },
+  {
+   "player": "Blake Whiteheart",
+   "rank": 31,
+   "team": "CLE"
+  },
+  {
+   "player": "Joel Wilson",
+   "rank": 32,
+   "team": "TEN"
+  },
+  {
+   "player": "Jared Wiley",
+   "rank": 33,
+   "team": "KC"
+  },
+  {
+   "player": "Princeton Fant",
+   "rank": 34,
+   "team": "DAL"
+  },
+  {
+   "player": "Hunter Long",
+   "rank": 35,
+   "team": "ARI"
+  },
+  {
+   "player": "Brevin Jordan",
+   "rank": 36,
+   "team": "HOU"
+  },
+  {
+   "player": "Elijah Arroyo",
+   "rank": 37,
+   "team": "SEA"
+  },
+  {
+   "player": "Julian Hill",
+   "rank": 38,
+   "team": "NE"
+  },
+  {
+   "player": "Bauer Sharp",
+   "rank": 39,
+   "team": "TB"
+  },
+  {
+   "player": "Carson Towt",
+   "rank": 40,
+   "team": "IND"
+  }
+ ],
  "bye": [
   "ATL",
   "CLE",
