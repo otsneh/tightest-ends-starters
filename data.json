@@ -73,16 +73,16 @@
    "team": "DEN"
   },
   {
-   "player": "Ian Thomas",
-   "player_id": "4995",
-   "rank": 13,
-   "team": "LV"
-  },
-  {
    "player": "Pharaoh Brown",
    "player_id": "4443",
-   "rank": 14,
+   "rank": 13,
    "team": "IND"
+  },
+  {
+   "player": "Ian Thomas",
+   "player_id": "4995",
+   "rank": 14,
+   "team": "LV"
   },
   {
    "player": "John FitzPatrick",
