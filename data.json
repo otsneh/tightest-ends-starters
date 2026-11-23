@@ -879,7 +879,7 @@
     "T.J. Hockenson"
    ],
    "kickoff": "2026-11-22T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "NE": {
@@ -992,7 +992,7 @@
     "George Kittle"
    ],
    "kickoff": "2026-11-22T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "TB": {
