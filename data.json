@@ -1,335 +1,289 @@
 {
  "available": [
   {
+   "player": "Eli Stowers",
+   "player_id": "13349",
+   "rank": 1,
+   "team": "PHI"
+  },
+  {
+   "player": "Terrance Ferguson",
+   "player_id": "12487",
+   "rank": 2,
+   "team": "LAR"
+  },
+  {
    "player": "Jake Tonges",
    "player_id": "8698",
-   "rank": 1,
+   "rank": 3,
    "team": "SF"
+  },
+  {
+   "player": "Max Klare",
+   "player_id": "13278",
+   "rank": 4,
+   "team": "LAR"
   },
   {
    "player": "Michael Trigg",
    "player_id": "13401",
-   "rank": 2,
+   "rank": 5,
    "team": "DAL"
   },
   {
    "player": "Eric Ebron",
    "player_id": "2118",
-   "rank": 3,
+   "rank": 6,
    "team": "PIT"
   },
   {
    "player": "Jelani Woods",
    "player_id": "8219",
-   "rank": 4,
+   "rank": 7,
    "team": "NYJ"
+  },
+  {
+   "player": "Nick Kallerup",
+   "player_id": "13151",
+   "rank": 8,
+   "team": "SEA"
   },
   {
    "player": "Nikola Kalinic",
    "player_id": "8107",
-   "rank": 5,
+   "rank": 9,
    "team": "CHI"
+  },
+  {
+   "player": "Mark Redman",
+   "player_id": "13013",
+   "rank": 10,
+   "team": "GB"
   },
   {
    "player": "Cam Grandy",
    "player_id": "12062",
-   "rank": 6,
+   "rank": 11,
    "team": "CIN"
+  },
+  {
+   "player": "Cameron Latu",
+   "player_id": "10210",
+   "rank": 12,
+   "team": "NE"
   },
   {
    "player": "Lucas Krull",
    "player_id": "8249",
-   "rank": 7,
+   "rank": 13,
    "team": "DEN"
   },
   {
    "player": "Khalil Dinkins",
    "player_id": "13432",
-   "rank": 8,
+   "rank": 14,
    "team": "SF"
   },
   {
    "player": "Brenden Bates",
    "player_id": "12374",
-   "rank": 9,
+   "rank": 15,
    "team": "JAX"
   },
   {
    "player": "Carter Runyon",
    "player_id": "13122",
-   "rank": 10,
+   "rank": 16,
    "team": "LV"
+  },
+  {
+   "player": "Patrick Murtagh",
+   "player_id": "11245",
+   "rank": 17,
+   "team": "NO"
   },
   {
    "player": "Nick Vannett",
    "player_id": "3258",
-   "rank": 11,
+   "rank": 18,
    "team": "BAL"
   },
   {
    "player": "Caleb Lohner",
    "player_id": "12735",
-   "rank": 12,
+   "rank": 19,
    "team": "DEN"
-  },
-  {
-   "player": "Pharaoh Brown",
-   "player_id": "4443",
-   "rank": 13,
-   "team": "IND"
   },
   {
    "player": "Ian Thomas",
    "player_id": "4995",
-   "rank": 14,
+   "rank": 20,
    "team": "LV"
+  },
+  {
+   "player": "Pharaoh Brown",
+   "player_id": "4443",
+   "rank": 21,
+   "team": "IND"
+  },
+  {
+   "player": "Ben Sims",
+   "player_id": "11082",
+   "rank": 22,
+   "team": "SEA"
   },
   {
    "player": "John FitzPatrick",
    "player_id": "8500",
-   "rank": 15,
+   "rank": 23,
    "team": "KC"
+  },
+  {
+   "player": "Bronson Kaufusi",
+   "player_id": "3239",
+   "rank": 24,
+   "team": "GB"
+  },
+  {
+   "player": "Drake Dabney",
+   "player_id": "13210",
+   "rank": 25,
+   "team": "GB"
   },
   {
    "player": "Miles Kitselman",
    "player_id": "13431",
-   "rank": 16,
+   "rank": 26,
    "team": "DET"
+  },
+  {
+   "player": "Blake Whiteheart",
+   "player_id": "11201",
+   "rank": 27,
+   "team": "CLE"
   },
   {
    "player": "Joel Wilson",
    "player_id": "11113",
-   "rank": 17,
+   "rank": 28,
    "team": "TEN"
   },
   {
    "player": "Jared Wiley",
    "player_id": "11595",
-   "rank": 18,
+   "rank": 29,
    "team": "KC"
   },
   {
    "player": "Princeton Fant",
    "player_id": "11508",
-   "rank": 19,
+   "rank": 30,
    "team": "DAL"
   },
   {
    "player": "Hunter Long",
    "player_id": "7535",
-   "rank": 20,
+   "rank": 31,
    "team": "ARI"
   },
   {
    "player": "Brevin Jordan",
    "player_id": "7568",
-   "rank": 21,
+   "rank": 32,
    "team": "HOU"
+  },
+  {
+   "player": "Elijah Arroyo",
+   "player_id": "12521",
+   "rank": 33,
+   "team": "SEA"
+  },
+  {
+   "player": "Julian Hill",
+   "player_id": "11371",
+   "rank": 34,
+   "team": "NE"
   },
   {
    "player": "Bauer Sharp",
    "player_id": "13308",
-   "rank": 22,
+   "rank": 35,
    "team": "TB"
   },
   {
    "player": "Carson Towt",
    "player_id": "13407",
-   "rank": 23,
+   "rank": 36,
    "team": "IND"
   },
   {
    "player": "Justin Joly",
    "player_id": "13400",
-   "rank": 24,
+   "rank": 37,
    "team": "MIA"
   },
   {
    "player": "David Martin-Robinson",
    "player_id": "12357",
-   "rank": 25,
+   "rank": 38,
    "team": "TEN"
   },
   {
    "player": "Devin Culp",
    "player_id": "11820",
-   "rank": 26,
+   "rank": 39,
    "team": "MIN"
   },
   {
    "player": "Cole Kmet",
    "player_id": "6826",
-   "rank": 27,
-   "team": "CHI"
-  },
-  {
-   "player": "Ty Pezza",
-   "player_id": "13705",
-   "rank": 28,
-   "team": "BAL"
-  },
-  {
-   "player": "Moliki Matavao",
-   "player_id": "12480",
-   "rank": 29,
-   "team": "NO"
-  },
-  {
-   "player": "Tip Reiman",
-   "player_id": "11716",
-   "rank": 30,
-   "team": "ARI"
-  },
-  {
-   "player": "Jack Doyle",
-   "player_id": "1706",
-   "rank": 31,
-   "team": "IND"
-  },
-  {
-   "player": "Kylen Granson",
-   "player_id": "7602",
-   "rank": 32,
-   "team": "TEN"
-  },
-  {
-   "player": "Jack Endries",
-   "player_id": "13282",
-   "rank": 33,
-   "team": "CIN"
-  },
-  {
-   "player": "Hayden Rucci",
-   "player_id": "12389",
-   "rank": 34,
-   "team": "PHI"
-  },
-  {
-   "player": "Thomas Gordon",
-   "player_id": "13249",
-   "rank": 35,
-   "team": "DET"
-  },
-  {
-   "player": "Will Kacmarek",
-   "player_id": "13434",
-   "rank": 36,
-   "team": "MIA"
-  },
-  {
-   "player": "Treyton Welch",
-   "player_id": "12079",
-   "rank": 37,
-   "team": "NO"
-  },
-  {
-   "player": "Joshua Simon",
-   "player_id": "12883",
-   "rank": 38,
-   "team": "CAR"
-  },
-  {
-   "player": "Mo Alie-Cox",
-   "player_id": "4054",
-   "rank": 39,
-   "team": "IND"
-  },
-  {
-   "player": "Jaren Kanak",
-   "player_id": "13422",
    "rank": 40,
-   "team": "TEN"
+   "team": "CHI"
   }
  ],
- "bye": [
-  "ATL",
-  "CLE",
-  "GB",
-  "LAR",
-  "NE",
-  "SEA"
- ],
+ "bye": [],
  "ineligible": [
   {
-   "game": "IND @ HOU",
-   "kickoff": "2026-11-19T20:15:00-05:00",
-   "player": "Dalton Schultz",
-   "sources": [
-    "ESPN"
-   ],
-   "team": "HOU"
-  },
-  {
-   "game": "IND @ HOU",
-   "kickoff": "2026-11-19T20:15:00-05:00",
-   "player": "Tyler Warren",
+   "game": "GB @ LAR",
+   "kickoff": "2026-11-25T20:00:00-05:00",
+   "player": "Tucker Kraft",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "IND"
+   "team": "GB"
   },
   {
-   "game": "ARI @ KC",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Elijah Higgins",
+   "game": "GB @ LAR",
+   "kickoff": "2026-11-25T20:00:00-05:00",
+   "player": "Colby Parkinson",
    "sources": [
     "Club"
    ],
-   "team": "ARI"
+   "team": "LAR"
   },
   {
-   "game": "ARI @ KC",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Trey McBride",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "ARI"
-  },
-  {
-   "game": "BAL @ CAR",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Mark Andrews",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "BAL"
-  },
-  {
-   "game": "BAL @ CAR",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Matt Hibner",
+   "game": "GB @ LAR",
+   "kickoff": "2026-11-25T20:00:00-05:00",
+   "player": "Davis Allen",
    "sources": [
     "Club"
    ],
-   "team": "BAL"
+   "team": "LAR"
   },
   {
-   "game": "MIA @ BUF",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Dalton Kincaid",
+   "game": "GB @ LAR",
+   "kickoff": "2026-11-25T20:00:00-05:00",
+   "player": "Tyler Higbee",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "BUF"
+   "team": "LAR"
   },
   {
-   "game": "BAL @ CAR",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Tommy Tremble",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "CAR"
-  },
-  {
-   "game": "NO @ CHI",
-   "kickoff": "2026-11-22T13:00:00-05:00",
+   "game": "CHI @ DET",
+   "kickoff": "2026-11-26T13:00:00-05:00",
    "player": "Colston Loveland",
    "sources": [
     "ESPN",
@@ -338,27 +292,8 @@
    "team": "CHI"
   },
   {
-   "game": "TEN @ DAL",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Brevyn Spann-Ford",
-   "sources": [
-    "Club"
-   ],
-   "team": "DAL"
-  },
-  {
-   "game": "TEN @ DAL",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Jake Ferguson",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "DAL"
-  },
-  {
-   "game": "TB @ DET",
-   "kickoff": "2026-11-22T13:00:00-05:00",
+   "game": "CHI @ DET",
+   "kickoff": "2026-11-26T13:00:00-05:00",
    "player": "Sam LaPorta",
    "sources": [
     "ESPN",
@@ -367,38 +302,27 @@
    "team": "DET"
   },
   {
-   "game": "ARI @ KC",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Travis Kelce",
+   "game": "PHI @ DAL",
+   "kickoff": "2026-11-26T16:30:00-05:00",
+   "player": "Brevyn Spann-Ford",
+   "sources": [
+    "Club"
+   ],
+   "team": "DAL"
+  },
+  {
+   "game": "PHI @ DAL",
+   "kickoff": "2026-11-26T16:30:00-05:00",
+   "player": "Jake Ferguson",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "KC"
+   "team": "DAL"
   },
   {
-   "game": "MIA @ BUF",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Greg Dulcich",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "MIA"
-  },
-  {
-   "game": "NO @ CHI",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Juwan Johnson",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "NO"
-  },
-  {
-   "game": "PIT @ PHI",
-   "kickoff": "2026-11-22T13:00:00-05:00",
+   "game": "PHI @ DAL",
+   "kickoff": "2026-11-26T16:30:00-05:00",
    "player": "Dallas Goedert",
    "sources": [
     "ESPN",
@@ -407,76 +331,28 @@
    "team": "PHI"
   },
   {
-   "game": "PIT @ PHI",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Darnell Washington",
+   "game": "KC @ BUF",
+   "kickoff": "2026-11-26T20:20:00-05:00",
+   "player": "Dalton Kincaid",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "PIT"
+   "team": "BUF"
   },
   {
-   "game": "PIT @ PHI",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Pat Freiermuth",
-   "sources": [
-    "Club"
-   ],
-   "team": "PIT"
-  },
-  {
-   "game": "TB @ DET",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Cade Otton",
+   "game": "KC @ BUF",
+   "kickoff": "2026-11-26T20:20:00-05:00",
+   "player": "Travis Kelce",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "TB"
+   "team": "KC"
   },
   {
-   "game": "TEN @ DAL",
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "player": "Gunnar Helm",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "TEN"
-  },
-  {
-   "game": "NYJ @ LAC",
-   "kickoff": "2026-11-22T16:05:00-05:00",
-   "player": "Charlie Kolar",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "LAC"
-  },
-  {
-   "game": "NYJ @ LAC",
-   "kickoff": "2026-11-22T16:05:00-05:00",
-   "player": "Jeremy Ruckert",
-   "sources": [
-    "Club"
-   ],
-   "team": "NYJ"
-  },
-  {
-   "game": "NYJ @ LAC",
-   "kickoff": "2026-11-22T16:05:00-05:00",
-   "player": "Mason Taylor",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "NYJ"
-  },
-  {
-   "game": "LV @ DEN",
-   "kickoff": "2026-11-22T16:25:00-05:00",
+   "game": "DEN @ PIT",
+   "kickoff": "2026-11-27T15:00:00-05:00",
    "player": "Evan Engram",
    "sources": [
     "ESPN",
@@ -485,8 +361,102 @@
    "team": "DEN"
   },
   {
-   "game": "JAX @ NYG",
-   "kickoff": "2026-11-22T16:25:00-05:00",
+   "game": "DEN @ PIT",
+   "kickoff": "2026-11-27T15:00:00-05:00",
+   "player": "Darnell Washington",
+   "sources": [
+    "Club"
+   ],
+   "team": "PIT"
+  },
+  {
+   "game": "DEN @ PIT",
+   "kickoff": "2026-11-27T15:00:00-05:00",
+   "player": "Pat Freiermuth",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "PIT"
+  },
+  {
+   "game": "ATL @ MIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Charlie Woerner",
+   "sources": [
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "ATL @ MIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Kyle Pitts Sr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "ATL"
+  },
+  {
+   "game": "BAL @ HOU",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Mark Andrews",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "BAL"
+  },
+  {
+   "game": "BAL @ HOU",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Matt Hibner",
+   "sources": [
+    "Club"
+   ],
+   "team": "BAL"
+  },
+  {
+   "game": "NO @ CIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Drew Sample",
+   "sources": [
+    "Club"
+   ],
+   "team": "CIN"
+  },
+  {
+   "game": "NO @ CIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Mike Gesicki",
+   "sources": [
+    "ESPN"
+   ],
+   "team": "CIN"
+  },
+  {
+   "game": "BAL @ HOU",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Dalton Schultz",
+   "sources": [
+    "ESPN"
+   ],
+   "team": "HOU"
+  },
+  {
+   "game": "NYG @ IND",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Tyler Warren",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "IND"
+  },
+  {
+   "game": "TEN @ JAX",
+   "kickoff": "2026-11-29T13:00:00-05:00",
    "player": "Brenton Strange",
    "sources": [
     "ESPN",
@@ -495,28 +465,18 @@
    "team": "JAX"
   },
   {
-   "game": "LV @ DEN",
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "player": "Brock Bowers",
+   "game": "NYJ @ MIA",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Greg Dulcich",
    "sources": [
     "ESPN",
     "Club"
    ],
-   "team": "LV"
+   "team": "MIA"
   },
   {
-   "game": "JAX @ NYG",
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "player": "Isaiah Likely",
-   "sources": [
-    "ESPN",
-    "Club"
-   ],
-   "team": "NYG"
-  },
-  {
-   "game": "MIN vs SF",
-   "kickoff": "2026-11-22T20:20:00-05:00",
+   "game": "ATL @ MIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
    "player": "T.J. Hockenson",
    "sources": [
     "ESPN",
@@ -525,8 +485,106 @@
    "team": "MIN"
   },
   {
-   "game": "MIN vs SF",
-   "kickoff": "2026-11-22T20:20:00-05:00",
+   "game": "NO @ CIN",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Juwan Johnson",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NO"
+  },
+  {
+   "game": "NYG @ IND",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Isaiah Likely",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NYG"
+  },
+  {
+   "game": "NYJ @ MIA",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Jeremy Ruckert",
+   "sources": [
+    "Club"
+   ],
+   "team": "NYJ"
+  },
+  {
+   "game": "NYJ @ MIA",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Mason Taylor",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NYJ"
+  },
+  {
+   "game": "TEN @ JAX",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "player": "Gunnar Helm",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "TEN"
+  },
+  {
+   "game": "NE @ LAC",
+   "kickoff": "2026-11-29T16:05:00-05:00",
+   "player": "Charlie Kolar",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LAC"
+  },
+  {
+   "game": "NE @ LAC",
+   "kickoff": "2026-11-29T16:05:00-05:00",
+   "player": "Hunter Henry",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "NE"
+  },
+  {
+   "game": "WSH @ ARI",
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "player": "Elijah Higgins",
+   "sources": [
+    "Club"
+   ],
+   "team": "ARI"
+  },
+  {
+   "game": "WSH @ ARI",
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "player": "Trey McBride",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "ARI"
+  },
+  {
+   "game": "SEA @ SF",
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "player": "AJ Barner",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "SEA"
+  },
+  {
+   "game": "SEA @ SF",
+   "kickoff": "2026-11-29T16:25:00-05:00",
    "player": "George Kittle",
    "sources": [
     "ESPN",
@@ -535,26 +593,8 @@
    "team": "SF"
   },
   {
-   "game": "CIN @ WSH",
-   "kickoff": "2026-11-23T20:15:00-05:00",
-   "player": "Drew Sample",
-   "sources": [
-    "Club"
-   ],
-   "team": "CIN"
-  },
-  {
-   "game": "CIN @ WSH",
-   "kickoff": "2026-11-23T20:15:00-05:00",
-   "player": "Mike Gesicki",
-   "sources": [
-    "ESPN"
-   ],
-   "team": "CIN"
-  },
-  {
-   "game": "CIN @ WSH",
-   "kickoff": "2026-11-23T20:15:00-05:00",
+   "game": "WSH @ ARI",
+   "kickoff": "2026-11-29T16:25:00-05:00",
    "player": "Chig Okonkwo",
    "sources": [
     "ESPN",
@@ -563,13 +603,53 @@
    "team": "WSH"
   },
   {
-   "game": "CIN @ WSH",
-   "kickoff": "2026-11-23T20:15:00-05:00",
+   "game": "WSH @ ARI",
+   "kickoff": "2026-11-29T16:25:00-05:00",
    "player": "John Bates",
    "sources": [
     "Club"
    ],
    "team": "WSH"
+  },
+  {
+   "game": "LV @ CLE",
+   "kickoff": "2026-11-29T20:20:00-05:00",
+   "player": "Harold Fannin Jr.",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "CLE"
+  },
+  {
+   "game": "LV @ CLE",
+   "kickoff": "2026-11-29T20:20:00-05:00",
+   "player": "Brock Bowers",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "LV"
+  },
+  {
+   "game": "CAR @ TB",
+   "kickoff": "2026-11-30T20:15:00-05:00",
+   "player": "Tommy Tremble",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "CAR"
+  },
+  {
+   "game": "CAR @ TB",
+   "kickoff": "2026-11-30T20:15:00-05:00",
+   "player": "Cade Otton",
+   "sources": [
+    "ESPN",
+    "Club"
+   ],
+   "team": "TB"
   }
  ],
  "stale": [],
@@ -580,13 +660,13 @@
     "Teagan Quitoriano",
     "Tip Reiman"
    ],
-   "game": "ARI @ KC",
+   "game": "WSH @ ARI",
    "ineligible": [
     "Trey McBride",
     "Elijah Higgins"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "locked": false,
    "stale": []
   },
   "ATL": {
@@ -594,28 +674,27 @@
     "Austin Hooper",
     "Nick Muse"
    ],
-   "game": "BYE",
+   "game": "ATL @ MIN",
    "ineligible": [
     "Kyle Pitts Sr.",
     "Charlie Woerner"
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-29T13:00:00-05:00",
    "locked": false,
    "stale": []
   },
   "BAL": {
    "backups": [
     "Josh Cuevas",
-    "Nick Vannett",
     "Durham Smythe"
    ],
-   "game": "BAL @ CAR",
+   "game": "BAL @ HOU",
    "ineligible": [
     "Mark Andrews",
     "Matt Hibner"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "BUF": {
@@ -624,12 +703,12 @@
     "Jackson Hawes",
     "Keleki Latu"
    ],
-   "game": "MIA @ BUF",
+   "game": "KC @ BUF",
    "ineligible": [
     "Dalton Kincaid"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T20:20:00-05:00",
+   "locked": false,
    "stale": []
   },
   "CAR": {
@@ -639,12 +718,12 @@
     "Feleipe Franks",
     "Ja'Tavion Sanders"
    ],
-   "game": "BAL @ CAR",
+   "game": "CAR @ TB",
    "ineligible": [
     "Tommy Tremble"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-30T20:15:00-05:00",
+   "locked": false,
    "stale": []
   },
   "CHI": {
@@ -655,12 +734,12 @@
     "Cole Kmet",
     "Nikola Kalinic"
    ],
-   "game": "NO @ CHI",
+   "game": "CHI @ DET",
    "ineligible": [
     "Colston Loveland"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "CIN": {
@@ -670,13 +749,13 @@
     "Erick All Jr.",
     "Tanner Hudson"
    ],
-   "game": "CIN @ WSH",
+   "game": "NO @ CIN",
    "ineligible": [
     "Mike Gesicki",
     "Drew Sample"
    ],
-   "kickoff": "2026-11-23T20:15:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "CLE": {
@@ -684,11 +763,11 @@
     "Blake Whiteheart",
     "Joe Royer"
    ],
-   "game": "BYE",
+   "game": "LV @ CLE",
    "ineligible": [
     "Harold Fannin Jr."
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-29T20:20:00-05:00",
    "locked": false,
    "stale": []
   },
@@ -698,13 +777,13 @@
     "James Mitchell",
     "Princeton Fant"
    ],
-   "game": "TEN @ DAL",
+   "game": "PHI @ DAL",
    "ineligible": [
     "Jake Ferguson",
     "Brevyn Spann-Ford"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T16:30:00-05:00",
+   "locked": false,
    "stale": []
   },
   "DEN": {
@@ -714,12 +793,12 @@
     "Dallen Bentley",
     "Caleb Lohner"
    ],
-   "game": "LV @ DEN",
+   "game": "DEN @ PIT",
    "ineligible": [
     "Evan Engram"
    ],
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-27T15:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "DET": {
@@ -727,12 +806,12 @@
     "Brock Wright",
     "Tyler Conklin"
    ],
-   "game": "TB @ DET",
+   "game": "CHI @ DET",
    "ineligible": [
     "Sam LaPorta"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "GB": {
@@ -743,11 +822,11 @@
     "Josh Whyle",
     "Thomas Yassmin"
    ],
-   "game": "BYE",
+   "game": "GB @ LAR",
    "ineligible": [
     "Tucker Kraft"
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-25T20:00:00-05:00",
    "locked": false,
    "stale": []
   },
@@ -758,12 +837,12 @@
     "Marlin Klein",
     "Cade Stover"
    ],
-   "game": "IND @ HOU",
+   "game": "BAL @ HOU",
    "ineligible": [
     "Dalton Schultz"
    ],
-   "kickoff": "2026-11-19T20:15:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "IND": {
@@ -774,26 +853,26 @@
     "Mo Alie-Cox",
     "Carson Towt"
    ],
-   "game": "IND @ HOU",
+   "game": "NYG @ IND",
    "ineligible": [
     "Tyler Warren"
    ],
-   "kickoff": "2026-11-19T20:15:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "JAX": {
    "backups": [
     "Nate Boerkircher",
-    "Tanner Koziol",
-    "Quintin Morris"
+    "Quintin Morris",
+    "Tanner Koziol"
    ],
-   "game": "JAX @ NYG",
+   "game": "TEN @ JAX",
    "ineligible": [
     "Brenton Strange"
    ],
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "KC": {
@@ -803,25 +882,25 @@
     "Jared Wiley",
     "John Michael Gyllenborg"
    ],
-   "game": "ARI @ KC",
+   "game": "KC @ BUF",
    "ineligible": [
     "Travis Kelce"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T20:20:00-05:00",
+   "locked": false,
    "stale": []
   },
   "LAC": {
    "backups": [
-    "Oronde Gadsden",
-    "David Njoku"
+    "David Njoku",
+    "Oronde Gadsden"
    ],
-   "game": "NYJ @ LAC",
+   "game": "NE @ LAC",
    "ineligible": [
     "Charlie Kolar"
    ],
-   "kickoff": "2026-11-22T16:05:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T16:05:00-05:00",
+   "locked": false,
    "stale": []
   },
   "LAR": {
@@ -829,28 +908,27 @@
     "Max Klare",
     "Terrance Ferguson"
    ],
-   "game": "BYE",
+   "game": "GB @ LAR",
    "ineligible": [
     "Tyler Higbee",
     "Davis Allen",
     "Colby Parkinson"
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-25T20:00:00-05:00",
    "locked": false,
    "stale": []
   },
   "LV": {
    "backups": [
     "Michael Mayer",
-    "Ian Thomas",
-    "Carter Runyon"
+    "Ian Thomas"
    ],
-   "game": "LV @ DEN",
+   "game": "LV @ CLE",
    "ineligible": [
     "Brock Bowers"
    ],
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T20:20:00-05:00",
+   "locked": false,
    "stale": []
   },
   "MIA": {
@@ -860,12 +938,12 @@
     "Justin Joly",
     "Cole Turner"
    ],
-   "game": "MIA @ BUF",
+   "game": "NYJ @ MIA",
    "ineligible": [
     "Greg Dulcich"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "MIN": {
@@ -874,12 +952,12 @@
     "Ben Yurosek",
     "Josh Oliver"
    ],
-   "game": "MIN vs SF",
+   "game": "ATL @ MIN",
    "ineligible": [
     "T.J. Hockenson"
    ],
-   "kickoff": "2026-11-22T20:20:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "NE": {
@@ -888,11 +966,11 @@
     "Cameron Latu",
     "Julian Hill"
    ],
-   "game": "BYE",
+   "game": "NE @ LAC",
    "ineligible": [
     "Hunter Henry"
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-29T16:05:00-05:00",
    "locked": false,
    "stale": []
   },
@@ -902,12 +980,12 @@
     "Oscar Delp",
     "Moliki Matavao"
    ],
-   "game": "NO @ CHI",
+   "game": "NO @ CIN",
    "ineligible": [
     "Juwan Johnson"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "NYG": {
@@ -916,12 +994,12 @@
     "Chris Manhertz",
     "Thomas Fidone II"
    ],
-   "game": "JAX @ NYG",
+   "game": "NYG @ IND",
    "ineligible": [
     "Isaiah Likely"
    ],
-   "kickoff": "2026-11-22T16:25:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "NYJ": {
@@ -930,41 +1008,41 @@
     "Jelani Woods",
     "Andrew Beck"
    ],
-   "game": "NYJ @ LAC",
+   "game": "NYJ @ MIA",
    "ineligible": [
     "Mason Taylor",
     "Jeremy Ruckert"
    ],
-   "kickoff": "2026-11-22T16:05:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "PHI": {
    "backups": [
-    "Eli Stowers",
     "Johnny Mundt",
     "Zach Ertz",
+    "Eli Stowers",
     "Grant Calcaterra"
    ],
-   "game": "PIT @ PHI",
+   "game": "PHI @ DAL",
    "ineligible": [
     "Dallas Goedert"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-26T16:30:00-05:00",
+   "locked": false,
    "stale": []
   },
   "PIT": {
    "backups": [
     "Robert Tonyan"
    ],
-   "game": "PIT @ PHI",
+   "game": "DEN @ PIT",
    "ineligible": [
-    "Darnell Washington",
-    "Pat Freiermuth"
+    "Pat Freiermuth",
+    "Darnell Washington"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-27T15:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "SEA": {
@@ -973,11 +1051,11 @@
     "Nick Kallerup",
     "Elijah Arroyo"
    ],
-   "game": "BYE",
+   "game": "SEA @ SF",
    "ineligible": [
     "AJ Barner"
    ],
-   "kickoff": null,
+   "kickoff": "2026-11-29T16:25:00-05:00",
    "locked": false,
    "stale": []
   },
@@ -987,12 +1065,12 @@
     "Brayden Willis",
     "Jake Tonges"
    ],
-   "game": "MIN vs SF",
+   "game": "SEA @ SF",
    "ineligible": [
     "George Kittle"
    ],
-   "kickoff": "2026-11-22T20:20:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "locked": false,
    "stale": []
   },
   "TB": {
@@ -1001,12 +1079,12 @@
     "Bauer Sharp",
     "Ko Kieft"
    ],
-   "game": "TB @ DET",
+   "game": "CAR @ TB",
    "ineligible": [
     "Cade Otton"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-30T20:15:00-05:00",
+   "locked": false,
    "stale": []
   },
   "TEN": {
@@ -1016,12 +1094,12 @@
     "Kylen Granson",
     "Jaren Kanak"
    ],
-   "game": "TEN @ DAL",
+   "game": "TEN @ JAX",
    "ineligible": [
     "Gunnar Helm"
    ],
-   "kickoff": "2026-11-22T13:00:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "locked": false,
    "stale": []
   },
   "WSH": {
@@ -1029,15 +1107,15 @@
     "Ben Sinnott",
     "Colson Yankoff"
    ],
-   "game": "CIN @ WSH",
+   "game": "WSH @ ARI",
    "ineligible": [
     "Chig Okonkwo",
     "John Bates"
    ],
-   "kickoff": "2026-11-23T20:15:00-05:00",
-   "locked": true,
+   "kickoff": "2026-11-29T16:25:00-05:00",
+   "locked": false,
    "stale": []
   }
  },
- "week": 11
+ "week": 12
 }
