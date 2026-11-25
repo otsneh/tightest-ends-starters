@@ -652,12 +652,7 @@
    "team": "TB"
   }
  ],
- "stale": [
-  [
-   "NE",
-   "ESPN chart"
-  ]
- ],
+ "stale": [],
  "teams": {
   "ARI": {
    "backups": [
@@ -977,9 +972,7 @@
    ],
    "kickoff": "2026-11-29T16:05:00-05:00",
    "locked": false,
-   "stale": [
-    "ESPN chart"
-   ]
+   "stale": []
   },
   "NO": {
    "backups": [
