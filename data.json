@@ -827,7 +827,7 @@
     "Tucker Kraft"
    ],
    "kickoff": "2026-11-25T20:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "HOU": {
@@ -915,7 +915,7 @@
     "Colby Parkinson"
    ],
    "kickoff": "2026-11-25T20:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "LV": {
