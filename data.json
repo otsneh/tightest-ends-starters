@@ -652,7 +652,12 @@
    "team": "TB"
   }
  ],
- "stale": [],
+ "stale": [
+  [
+   "NYG",
+   "ESPN chart"
+  ]
+ ],
  "teams": {
   "ARI": {
    "backups": [
@@ -1000,7 +1005,9 @@
    ],
    "kickoff": "2026-11-29T13:00:00-05:00",
    "locked": false,
-   "stale": []
+   "stale": [
+    "ESPN chart"
+   ]
   },
   "NYJ": {
    "backups": [
