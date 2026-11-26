@@ -739,7 +739,7 @@
     "Colston Loveland"
    ],
    "kickoff": "2026-11-26T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CIN": {
@@ -811,7 +811,7 @@
     "Sam LaPorta"
    ],
    "kickoff": "2026-11-26T13:00:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "GB": {
