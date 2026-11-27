@@ -708,7 +708,7 @@
     "Dalton Kincaid"
    ],
    "kickoff": "2026-11-26T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "CAR": {
@@ -888,7 +888,7 @@
     "Travis Kelce"
    ],
    "kickoff": "2026-11-26T20:20:00-05:00",
-   "locked": false,
+   "locked": true,
    "stale": []
   },
   "LAC": {
